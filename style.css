@@ -14,7 +14,7 @@ header{
     
 }
 section {
-    padding:2em;
+    padding:1em;
 }
 /* body{
     background-image: url(/images/bg-tablet-pattern.svg);
@@ -64,7 +64,9 @@ h3 , span{
     font-size:1rem;
     font-weight: 700;
     color:hsl(228, 39%, 23%);
+    
 }
+
 h4{
     color:hsl(228, 39%, 23%);
 }
@@ -254,6 +256,7 @@ input{
         flex-direction: row-reverse;
         justify-content: space-around;
     }
+    
     .header{
         padding:4em;
     }
@@ -300,7 +303,6 @@ input{
     display:flex;
     width:25%;
     margin:0.5em;
-    padding:1em;
     background:hsl(0, 0%, 98%);
 }
 
